@@ -1,2 +1,2 @@
-# high_low_game
+# High Low Game
 A simple number guessing app.
